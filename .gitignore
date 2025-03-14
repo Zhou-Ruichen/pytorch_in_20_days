@@ -11,4 +11,7 @@ data/tensorboard
 data/mnist 
 mnist
 *.png
+leopard_images
+leopard_dataset
+paper_figures
 
